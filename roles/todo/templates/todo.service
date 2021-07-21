@@ -1,5 +1,5 @@
 [Unit]
-Description=Todo Service
+Description=todo Service
 
 [Service]
 Environment=REDIS_HOST=redis-{{ENV}}.ramprasadzs.online
